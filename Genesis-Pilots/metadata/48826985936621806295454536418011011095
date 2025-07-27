@@ -1,0 +1,40 @@
+{
+  "name": "Genesis Pilot #693",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/693.png",
+  "edition": "693",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Martian Helix Amp"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Vulcan Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sable Drop-tail"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Martian Junior Garb"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia BLITZRAY"
+    }
+  ]
+}
