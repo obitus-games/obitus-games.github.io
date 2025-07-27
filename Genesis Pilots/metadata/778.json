@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #778",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 778,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lunar Tune 300 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Terra Explorer Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Veridian Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Sable Tactical Top "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia BLITZRAY "
+        }
+    ]
+}

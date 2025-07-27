@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #157",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 157,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stardust Way Cypher 5 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fusion Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Meteor Shard Exile Outfit "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum ARC-WAVE "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #394",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 394,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Neptune's Trench Receptor RCP-9 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Glacial Slate Hermit Apparel "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Phase Neural Stands "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum GLAIVE "
+        }
+    ]
+}

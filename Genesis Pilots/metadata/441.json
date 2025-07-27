@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #441",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 441,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Martian NeurEx Circlet v.7 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Vulcan Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pewter Cascade Lock "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Canyon Formal Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia BULWARK "
+        }
+    ]
+}

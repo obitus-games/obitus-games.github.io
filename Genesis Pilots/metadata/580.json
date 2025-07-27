@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #580",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 580,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Terra NeurEx Circlet v.7 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Vulcan Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Sienna Cascade Lock "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Glacier Formal Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia SWIFT-EDGE "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #83",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 83,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Obsidian Nightfall SPECTER "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cosmic Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Plasma Shield Front "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Sublunar Shadow Orbital Flightsuit "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium BLITZRAY "
+        }
+    ]
+}

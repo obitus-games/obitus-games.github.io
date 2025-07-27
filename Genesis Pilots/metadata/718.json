@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #718",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 718,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lunar NeurEx Circlet v.7 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Martian Explorer Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Vulcan Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pewter Sweeper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia SPECTER "
+        }
+    ]
+}

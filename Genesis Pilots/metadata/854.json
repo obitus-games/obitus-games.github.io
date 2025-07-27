@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #854",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 854,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Martian NeurEx Circlet v.7 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Martian Explorer Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cobalt Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Steel Tactical Top "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia BULWARK "
+        }
+    ]
+}

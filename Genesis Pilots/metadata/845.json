@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #845",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 845,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Terra NeurEx Circlet v.7 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Lunar Explorer Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Veridian Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fey Unit Cut "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia ARC-WAVE "
+        }
+    ]
+}

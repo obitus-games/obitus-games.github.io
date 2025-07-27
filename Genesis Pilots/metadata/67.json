@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #67",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 67,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Divine Chroma GLAIVE "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nebula Infernal "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Phase Shield Front "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Genesis Biome\u00a0Riot Cloak "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium BULWARK "
+        }
+    ]
+}

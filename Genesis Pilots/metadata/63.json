@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #63",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 63,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Divine Chroma GLAIVE "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cosmic Infernal "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Flux Shield Front "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Dwarf Orbital Flightsuit "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium BLITZRAY "
+        }
+    ]
+}

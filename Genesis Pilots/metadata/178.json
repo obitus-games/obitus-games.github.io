@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #178",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 178,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Xenoflora Cypher 5 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Radiant Phoenix Cut "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Meteor Shard Exile Outfit "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SWIFT-EDGE "
+        }
+    ]
+}

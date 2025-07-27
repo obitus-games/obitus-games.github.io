@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #438",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 438,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Terra NeurEx Circlet v.7 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Veridian Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Kelp Aero Cut "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Glacier Formal Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia BULWARK "
+        }
+    ]
+}

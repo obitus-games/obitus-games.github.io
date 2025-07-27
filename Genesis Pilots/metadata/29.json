@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #29",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 29,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Midnight Aura SWIFT-EDGE "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nebula Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Bloom Monolithic Crest "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Polaris Geyser Duel Ensemble "
+        },
+        {
+            "trait_type": "Eyes ",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium SWIFT-EDGE "
+        }
+    ]
+}

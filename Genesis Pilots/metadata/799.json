@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #799",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 799,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Terra Helix Amp "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Glacier Explorer Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Veridian Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Photon Tactical Top "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia BULWARK "
+        }
+    ]
+}

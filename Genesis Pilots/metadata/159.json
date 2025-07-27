@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #159",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 159,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dusk Dune Receptor RCP-9 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Cryo Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Glacial Slate Ambassador Blazer "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BULWARK "
+        }
+    ]
+}

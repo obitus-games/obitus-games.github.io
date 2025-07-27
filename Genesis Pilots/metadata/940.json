@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #940",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 940,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Terra EchoBridge "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Terra Explorer Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cobalt Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Sable Gravity Drop "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia GLAIVE "
+        }
+    ]
+}

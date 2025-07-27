@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #817",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 817,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Martian EchoBridge "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Martian Rookie Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cobalt Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fey Sweeper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia SPECTER "
+        }
+    ]
+}

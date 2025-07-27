@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #755",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 755,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lunar Helix Amp "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Martian Explorer Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Veridian Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Steel Tactical Top "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia SWIFT-EDGE "
+        }
+    ]
+}

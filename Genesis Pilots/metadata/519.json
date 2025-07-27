@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #519",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 519,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Terra NeurEx Circlet v.7 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Veridian Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Sienna Drop-tail "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Martian Junior Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia ARC-WAVE "
+        }
+    ]
+}

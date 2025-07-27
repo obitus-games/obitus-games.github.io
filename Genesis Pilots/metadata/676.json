@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #676",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 676,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glacier Helix Amp "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Veridian Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fey Cascade Lock "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Martian Formal Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia GLAIVE "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #88",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 88,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Midnight Aura SWIFT-EDGE "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cosmic Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Matrix Edged Quills "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Genesis Biome\u00a0Riot Cloak "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium GLAIVE "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #56",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 56,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Electric Cherry Blossom BLITZRAY "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Orion Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Flux Edged Quills "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Rosey Nebula Orbital Flightsuit "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium SPECTER "
+        }
+    ]
+}

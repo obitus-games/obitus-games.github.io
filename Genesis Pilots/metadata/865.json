@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #865",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 865,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glacier NeurEx Circlet v.7 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Martian Rookie Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cobalt Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Lapis Gravity Drop "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia GLAIVE "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #73",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 73,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Emerald Eruption BULWARK "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nebula Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Matrix Shield Front "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Dwarf Orbital Flightsuit "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium SWIFT-EDGE "
+        }
+    ]
+}

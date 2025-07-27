@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #280",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 280,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stardust Way Receptor RCP-9 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Meteor Shard Hermit Apparel "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Foundry Neural Stands "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum GLAIVE "
+        }
+    ]
+}

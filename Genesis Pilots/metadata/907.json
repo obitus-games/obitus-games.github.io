@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #907",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 907,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lunar Ocular Bridge PX "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Martian Explorer Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Vulcan Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Midas Tactical Top "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia BULWARK "
+        }
+    ]
+}

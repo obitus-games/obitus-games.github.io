@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #294",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 294,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Neptune's Trench Cyto Pro DX "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Xenoflora Outcast Wear "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Xeno Neural Stands "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SWIFT-EDGE "
+        }
+    ]
+}

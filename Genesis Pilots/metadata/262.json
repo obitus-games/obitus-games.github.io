@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #262",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 262,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dusk Dune Aural Filter TX "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Meteor Shard Outcast Wear "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Foundry Neon Nights Bedhead "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SPECTER "
+        }
+    ]
+}

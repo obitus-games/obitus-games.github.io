@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #211",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 211,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glacial Slate Cyto Pro DX "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Glimmer Earthly Style "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Xenoflora Exile Outfit "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BLITZRAY "
+        }
+    ]
+}

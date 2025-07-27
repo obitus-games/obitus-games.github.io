@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #193",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 193,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stardust Way EchoTap 300M "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Foundry Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Meteor Shard Ambassador Blazer "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum GLAIVE "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #45",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 45,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Divine Chroma GLAIVE "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cosmic Infernal "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Plasma Monolithic Crest "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Rosey Nebula Crystal Dressings "
+        },
+        {
+            "trait_type": "Eyes ",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium BLITZRAY "
+        }
+    ]
+}

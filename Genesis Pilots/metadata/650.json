@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #650",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 650,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glacier Tune 300 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Veridian Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Steel Drop-tail "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Martian Formal Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia SWIFT-EDGE "
+        }
+    ]
+}

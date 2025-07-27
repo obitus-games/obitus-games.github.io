@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #357",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 357,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glacial Slate Cyto Pro DX "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Volcanic Dust Bold Robes "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Cryo Neon Nights Bedhead "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SPECTER "
+        }
+    ]
+}

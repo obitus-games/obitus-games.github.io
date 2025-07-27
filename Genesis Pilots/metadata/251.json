@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #251",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 251,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hydrocarbon Green EchoTap 300M "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Xenoflora Bold Robes "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fusion Hidden Village Tie-up "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BULWARK "
+        }
+    ]
+}

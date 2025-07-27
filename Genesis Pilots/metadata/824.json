@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #824",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 824,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Canyon Helix Amp "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Canyon Rookie Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cobalt Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pewter Tactical Top "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia ARC-WAVE "
+        }
+    ]
+}

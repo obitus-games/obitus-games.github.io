@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #998",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 998,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Canyon Helix Amp "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Canyon Explorer Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Vulcan Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Kelp Unit Cut "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia GLAIVE "
+        }
+    ]
+}

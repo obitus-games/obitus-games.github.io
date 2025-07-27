@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #593",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 593,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lunar Helix Amp "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Veridian Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Steel Drop-tail "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Canyon Formal Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia SWIFT-EDGE "
+        }
+    ]
+}

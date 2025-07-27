@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #139",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 139,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Neptune's Trench EchoTap 300M "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Foundry Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Glacial Slate Recon Jumper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SPECTER "
+        }
+    ]
+}

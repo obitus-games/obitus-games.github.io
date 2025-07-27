@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #339",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 339,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dusk Dune Aural Filter TX "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Glacial Slate Bold Robes "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fusion Neural Stands "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BLITZRAY "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #347",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 347,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Xenoflora Receptor RCP-9 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Glacial Slate Outcast Wear "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Phase Neon Nights Bedhead "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum GLAIVE "
+        }
+    ]
+}

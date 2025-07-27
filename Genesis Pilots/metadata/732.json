@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #732",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 732,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Martian Tune 300 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Canyon Explorer Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cobalt Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Geode Gravity Drop "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia SWIFT-EDGE "
+        }
+    ]
+}

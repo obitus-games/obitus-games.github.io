@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #816",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 816,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Martian NeurEx Circlet v.7 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Canyon Explorer Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Veridian Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Photon Sweeper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia SPECTER "
+        }
+    ]
+}

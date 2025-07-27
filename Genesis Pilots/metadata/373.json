@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #373",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 373,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glacial Slate EchoTap 300M "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dusk Dune Outcast Wear "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Midnight Neural Stands "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum ARC-WAVE "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #900",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 900,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glacier EchoBridge "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Canyon Explorer Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Veridian Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Kelp Tactical Top "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia ARC-WAVE "
+        }
+    ]
+}

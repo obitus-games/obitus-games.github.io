@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #500",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 500,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Terra Helix Amp "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cobalt Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Sable Aero Cut "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Canyon Junior Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia BLITZRAY "
+        }
+    ]
+}

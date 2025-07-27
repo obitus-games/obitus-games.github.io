@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #773",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 773,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glacier EchoBridge "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Terra Rookie Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cobalt Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Steel Gravity Drop "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia ARC-WAVE "
+        }
+    ]
+}

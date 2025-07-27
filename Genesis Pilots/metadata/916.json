@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #916",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 916,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lunar EchoBridge "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Glacier Rookie Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Vulcan Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Sienna Tactical Top "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia SPECTER "
+        }
+    ]
+}

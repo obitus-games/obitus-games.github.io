@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #24",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 24,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Crimson Thunder ARC-WAVE "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Orion Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Flux Monolithic Crest "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Genesis Biome Duel Ensemble "
+        },
+        {
+            "trait_type": "Eyes ",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium BULWARK "
+        }
+    ]
+}

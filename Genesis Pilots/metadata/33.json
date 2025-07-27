@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #33",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 33,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Electric Cherry Blossom BLITZRAY "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cosmic Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Plasma Monolithic Crest "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Genesis Biome Crystal Dressings "
+        },
+        {
+            "trait_type": "Eyes ",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium GLAIVE "
+        }
+    ]
+}

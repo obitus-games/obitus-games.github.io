@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #407",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 407,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Terra Tune 300 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Veridian Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Sable Cascade Lock "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Canyon Formal Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia ARC-WAVE "
+        }
+    ]
+}

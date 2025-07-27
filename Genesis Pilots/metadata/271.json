@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #271",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 271,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Volcanic Dust Receptor RCP-9 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Xenoflora Outcast Wear "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Glimmer Hidden Village Tie-up "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SPECTER "
+        }
+    ]
+}

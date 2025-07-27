@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #879",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 879,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lunar Tune 300 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Martian Rookie Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cobalt Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pewter Sweeper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia GLAIVE "
+        }
+    ]
+}

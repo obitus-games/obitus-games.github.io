@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #214",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 214,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Xenoflora Cypher 5 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Midnight Phoenix Cut "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Glacial Slate Ambassador Blazer "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SPECTER "
+        }
+    ]
+}

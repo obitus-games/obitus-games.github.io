@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #322",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 322,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glacial Slate Cyto Pro DX "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Neptune's Trench Hermit Apparel "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Xeno Neon Nights Bedhead "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SPECTER "
+        }
+    ]
+}

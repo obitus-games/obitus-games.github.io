@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #143",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 143,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Meteor Shard Cypher 5 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Phase Earthly Style "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Volcanic Dust Ambassador Blazer "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SWIFT-EDGE "
+        }
+    ]
+}

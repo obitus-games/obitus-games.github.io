@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #366",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 366,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stardust Way Aural Filter TX "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Volcanic Dust Outcast Wear "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Glimmer Hidden Village Tie-up "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum GLAIVE "
+        }
+    ]
+}

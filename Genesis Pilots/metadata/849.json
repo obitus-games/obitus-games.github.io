@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #849",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 849,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Martian Ocular Bridge PX "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Martian Rookie Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Vulcan Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Photon Sweeper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia SPECTER "
+        }
+    ]
+}

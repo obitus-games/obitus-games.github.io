@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #623",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 623,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glacier NeurEx Circlet v.7 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Veridian Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Lapis Drop-tail "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Canyon Junior Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia SWIFT-EDGE "
+        }
+    ]
+}

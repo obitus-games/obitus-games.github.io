@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #325",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 325,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Volcanic Dust Aural Filter TX "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Glacial Slate Bold Robes "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fusion Hidden Village Tie-up "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BLITZRAY "
+        }
+    ]
+}

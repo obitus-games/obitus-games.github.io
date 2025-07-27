@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #334",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 334,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Volcanic Dust Cypher 5 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Volcanic Dust Outcast Wear "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Radiant Hidden Village Tie-up "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum ARC-WAVE "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #229",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 229,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Neptune's Trench Cyto Pro DX "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Midnight Phoenix Cut "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Xenoflora Recon Jumper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SWIFT-EDGE "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #303",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 303,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Meteor Shard Receptor RCP-9 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Stardust Way Bold Robes "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Glimmer Neural Stands "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum GLAIVE "
+        }
+    ]
+}

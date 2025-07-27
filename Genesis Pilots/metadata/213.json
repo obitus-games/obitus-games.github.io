@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #213",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 213,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Neptune's Trench Aural Filter TX "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Midnight Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Volcanic Dust Exile Outfit "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum GLAIVE "
+        }
+    ]
+}

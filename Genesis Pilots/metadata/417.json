@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #417",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 417,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Martian Ocular Bridge PX "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Vulcan Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Midas Aero Cut "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Terra Junior Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia SWIFT-EDGE "
+        }
+    ]
+}

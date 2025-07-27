@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #203",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 203,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hydrocarbon Green EchoTap 300M "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Phase Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Stardust Way Exile Outfit "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BULWARK "
+        }
+    ]
+}

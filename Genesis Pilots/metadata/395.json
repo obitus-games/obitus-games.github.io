@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #395",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 395,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glacial Slate EchoTap 300M "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Meteor Shard Bold Robes "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Phase Neural Stands "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BLITZRAY "
+        }
+    ]
+}

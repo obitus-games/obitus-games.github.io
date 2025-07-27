@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #64",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 64,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Crimson Thunder ARC-WAVE "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nebula Infernal "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Matrix Spike Grid "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Sublunar Shadow Orbital Flightsuit "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium GLAIVE "
+        }
+    ]
+}

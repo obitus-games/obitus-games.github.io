@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #97",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 97,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Divine Chroma GLAIVE "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cosmic Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Plasma Spike Grid "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Void Flare Techno Vestments "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium BLITZRAY "
+        }
+    ]
+}

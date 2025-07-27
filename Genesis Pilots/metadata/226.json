@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #226",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 226,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stardust Way EchoTap 300M "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Foundry Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hydrocarbon Green Ambassador Blazer "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BLITZRAY "
+        }
+    ]
+}

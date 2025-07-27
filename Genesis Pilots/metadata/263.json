@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #263",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 263,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Volcanic Dust EchoTap 300M "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Stardust Way Bold Robes "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Cryo Hidden Village Tie-up "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum GLAIVE "
+        }
+    ]
+}

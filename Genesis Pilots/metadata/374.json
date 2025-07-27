@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #374",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 374,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stardust Way Receptor RCP-9 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Stardust Way Hermit Apparel "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Cryo Hidden Village Tie-up "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SWIFT-EDGE "
+        }
+    ]
+}

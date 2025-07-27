@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #343",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 343,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dusk Dune Receptor RCP-9 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Stardust Way Outcast Wear "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Glimmer Neural Stands "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BULWARK "
+        }
+    ]
+}

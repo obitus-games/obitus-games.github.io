@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #299",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 299,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stardust Way Cypher 5 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Stardust Way Outcast Wear "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Radiant Neural Stands "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SPECTER "
+        }
+    ]
+}

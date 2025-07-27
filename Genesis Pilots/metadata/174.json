@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #174",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 174,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Xenoflora Cypher 5 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Midnight Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Volcanic Dust Ambassador Blazer "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum ARC-WAVE "
+        }
+    ]
+}

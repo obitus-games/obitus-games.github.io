@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #191",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 191,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Volcanic Dust Cypher 5 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Glimmer Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Stardust Way Ambassador Blazer "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum ARC-WAVE "
+        }
+    ]
+}

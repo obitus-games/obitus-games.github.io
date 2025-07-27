@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #194",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 194,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stardust Way Aural Filter TX "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Radiant Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Neptune's Trench Ambassador Blazer "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SPECTER "
+        }
+    ]
+}

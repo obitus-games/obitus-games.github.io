@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #772",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 772,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lunar Helix Amp "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Glacier Explorer Jumpsuit "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Veridian Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Sienna Unit Cut "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia BLITZRAY "
+        }
+    ]
+}

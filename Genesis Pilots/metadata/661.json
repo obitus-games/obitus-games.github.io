@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #661",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 661,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lunar Ocular Bridge PX "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cobalt Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pewter Cascade Lock "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Canyon Junior Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia ARC-WAVE "
+        }
+    ]
+}

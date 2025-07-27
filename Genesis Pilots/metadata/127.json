@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #127",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 127,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stardust Way Aural Filter TX "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Phase Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Meteor Shard Exile Outfit "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BLITZRAY "
+        }
+    ]
+}

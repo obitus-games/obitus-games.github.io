@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #491",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 491,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Canyon Tune 300 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cobalt Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Midas Cascade Lock "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Glacier Formal Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia SPECTER "
+        }
+    ]
+}

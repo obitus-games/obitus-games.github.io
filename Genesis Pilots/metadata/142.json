@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #142",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 142,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Volcanic Dust EchoTap 300M "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Midnight Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Stardust Way Recon Jumper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum ARC-WAVE "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #61",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 61,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Emerald Eruption BULWARK "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Orion Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Phase Edged Quills "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Genesis Biome\u00a0Orbital Flightsuit "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium GLAIVE "
+        }
+    ]
+}

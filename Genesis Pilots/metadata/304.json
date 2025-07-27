@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #304",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 304,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dusk Dune Receptor RCP-9 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hydrocarbon Green Outcast Wear "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Glimmer Hidden Village Tie-up "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum ARC-WAVE "
+        }
+    ]
+}

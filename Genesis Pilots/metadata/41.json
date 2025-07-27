@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #41",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 41,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Divine Chroma GLAIVE "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cosmic Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Flux Magma Uplift "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Rosey Nebula Crystal Dressings "
+        },
+        {
+            "trait_type": "Eyes ",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium BULWARK "
+        }
+    ]
+}

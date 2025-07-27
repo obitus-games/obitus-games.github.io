@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #150",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 150,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Volcanic Dust Aural Filter TX "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Xeno Phoenix Cut "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dusk Dune Exile Outfit "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BULWARK "
+        }
+    ]
+}

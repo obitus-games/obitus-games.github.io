@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #389",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 389,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Neptune's Trench EchoTap 300M "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Glacial Slate Outcast Wear "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fusion Neon Nights Bedhead "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BULWARK "
+        }
+    ]
+}

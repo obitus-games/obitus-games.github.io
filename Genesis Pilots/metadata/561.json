@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #561",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 561,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Terra Tune 300 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cobalt Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Sable Aero Cut "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Canyon Junior Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia ARC-WAVE "
+        }
+    ]
+}

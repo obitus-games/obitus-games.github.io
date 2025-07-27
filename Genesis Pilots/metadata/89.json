@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #89",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 89,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Crimson Thunder ARC-WAVE "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nebula Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Matrix Spike Grid "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Void Flare Riot Cloak "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium BULWARK "
+        }
+    ]
+}

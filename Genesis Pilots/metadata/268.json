@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #268",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 268,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Volcanic Dust Cyto Pro DX "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Neptune's Trench Outcast Wear "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Xeno Hidden Village Tie-up "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BULWARK "
+        }
+    ]
+}

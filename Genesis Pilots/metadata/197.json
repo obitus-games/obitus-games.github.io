@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #197",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 197,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Neptune's Trench Aural Filter TX "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fusion Earthly Style "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dusk Dune Recon Jumper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BULWARK "
+        }
+    ]
+}

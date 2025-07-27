@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #260",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 260,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Xenoflora Cyto Pro DX "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Meteor Shard Hermit Apparel "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Cryo Neural Stands "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SPECTER "
+        }
+    ]
+}

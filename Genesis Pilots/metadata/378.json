@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #378",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 378,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Xenoflora Receptor RCP-9 "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Xenoflora Bold Robes "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Xeno Neon Nights Bedhead "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SWIFT-EDGE "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #486",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 486,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glacier Ocular Bridge PX "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Vulcan Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Photon Vector Cut "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Lunar Junior Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia BULWARK "
+        }
+    ]
+}

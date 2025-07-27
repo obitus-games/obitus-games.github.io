@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #86",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 86,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Electric Cherry Blossom BLITZRAY "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nebula Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Flux Spike Grid "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Sublunar Shadow Riot Cloak "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium BLITZRAY "
+        }
+    ]
+}

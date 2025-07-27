@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #230",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 230,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Volcanic Dust Cypher 5 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Foundry Earthly Style "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dusk Dune Recon Jumper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum ARC-WAVE "
+        }
+    ]
+}

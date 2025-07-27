@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #66",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 66,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Emerald Eruption BULWARK "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cosmic Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Plasma Edged Quills "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Dwarf Techno Vestments "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium ARC-WAVE "
+        }
+    ]
+}

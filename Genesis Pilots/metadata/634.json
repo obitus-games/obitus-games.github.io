@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #634",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 634,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lunar EchoBridge "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cobalt Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Sable Cascade Lock "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Canyon Junior Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia ARC-WAVE "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #574",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 574,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Martian EchoBridge "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cobalt Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fey Cascade Lock "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Terra Formal Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia BULWARK "
+        }
+    ]
+}

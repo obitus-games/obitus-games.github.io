@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #176",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 176,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Neptune's Trench Cypher 5 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Xeno Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Stardust Way Recon Jumper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SPECTER "
+        }
+    ]
+}

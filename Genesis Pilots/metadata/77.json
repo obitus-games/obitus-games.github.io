@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #77",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 77,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Midnight Aura SWIFT-EDGE "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Orion Infernal "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Matrix Shield Front "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Dwarf Riot Cloak "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium BLITZRAY "
+        }
+    ]
+}

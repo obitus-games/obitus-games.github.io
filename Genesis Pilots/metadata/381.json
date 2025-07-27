@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #381",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 381,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Meteor Shard EchoTap 300M "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hydrocarbon Green Hermit Apparel "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Midnight Neon Nights Bedhead "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BLITZRAY "
+        }
+    ]
+}

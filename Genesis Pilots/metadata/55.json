@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #55",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 55,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Obsidian Nightfall SPECTER "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cosmic Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Bloom Shield Front "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Polaris Geyser Techno Vestments "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium BULWARK "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #70",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 70,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Obsidian Nightfall SPECTER "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Orion Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Bloom Shield Front "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Dwarf Riot Cloak "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium SWIFT-EDGE "
+        }
+    ]
+}

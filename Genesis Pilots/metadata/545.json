@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #545",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 545,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Martian EchoBridge "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Vulcan Standard "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Geode Aero Cut "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Lunar Formal Garb "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gaia SPECTER "
+        }
+    ]
+}

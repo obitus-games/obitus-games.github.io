@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #391",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 391,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stardust Way EchoTap 300M "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hydrocarbon Green Hermit Apparel "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Glimmer Neon Nights Bedhead "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BULWARK "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #288",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 288,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dusk Dune EchoTap 300M "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Xenoflora Bold Robes "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Radiant Neon Nights Bedhead "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum ARC-WAVE "
+        }
+    ]
+}

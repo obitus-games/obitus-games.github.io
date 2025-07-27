@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #198",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 198,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stardust Way Receptor RCP-9 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Xeno Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Xenoflora Recon Jumper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SWIFT-EDGE "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #383",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 383,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stardust Way Aural Filter TX "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hydrocarbon Green Hermit Apparel "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Radiant Neural Stands "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum ARC-WAVE "
+        }
+    ]
+}

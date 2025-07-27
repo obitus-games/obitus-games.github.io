@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #129",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 129,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hydrocarbon Green Cyto Pro DX "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Midnight Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hydrocarbon Green Recon Jumper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SWIFT-EDGE "
+        }
+    ]
+}

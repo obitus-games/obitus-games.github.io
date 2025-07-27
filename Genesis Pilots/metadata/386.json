@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #386",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 386,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glacial Slate Cyto Pro DX "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Stardust Way Hermit Apparel "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Xeno Neon Nights Bedhead "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BLITZRAY "
+        }
+    ]
+}

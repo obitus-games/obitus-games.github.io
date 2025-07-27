@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #172",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 172,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dusk Dune Receptor RCP-9 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Foundry Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Stardust Way Ambassador Blazer "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SPECTER "
+        }
+    ]
+}

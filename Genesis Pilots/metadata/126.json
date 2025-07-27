@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #126",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 126,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Neptune's Trench EchoTap 300M "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Glimmer Phoenix Cut "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Meteor Shard Ambassador Blazer "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SPECTER "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #400",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 400,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Volcanic Dust Cyto Pro DX "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dusk Dune Outcast Wear "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Midnight Neural Stands "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BULWARK "
+        }
+    ]
+}

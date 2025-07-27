@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #276",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 276,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Volcanic Dust Aural Filter TX "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Volcanic Dust Hermit Apparel "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Glimmer Neon Nights Bedhead "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BLITZRAY "
+        }
+    ]
+}

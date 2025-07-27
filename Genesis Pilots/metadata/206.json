@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #206",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 206,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stardust Way Cyto Pro DX "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Cryo Earthly Style "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Neptune's Trench Recon Jumper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SPECTER "
+        }
+    ]
+}

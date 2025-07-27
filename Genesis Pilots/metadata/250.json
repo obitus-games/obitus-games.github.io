@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #250",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 250,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Meteor Shard Aural Filter TX "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Radiant Earthly Style "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Glacial Slate Recon Jumper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SWIFT-EDGE "
+        }
+    ]
+}

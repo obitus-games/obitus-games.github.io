@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #244",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 244,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Meteor Shard Receptor RCP-9 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Phase Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Meteor Shard Recon Jumper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BULWARK "
+        }
+    ]
+}

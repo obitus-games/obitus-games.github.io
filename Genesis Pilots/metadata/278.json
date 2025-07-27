@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #278",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 278,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Volcanic Dust EchoTap 300M "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hydrocarbon Green Hermit Apparel "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Radiant Neural Stands "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BULWARK "
+        }
+    ]
+}

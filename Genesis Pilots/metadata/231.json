@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #231",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 231,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Volcanic Dust Cyto Pro DX "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fusion Earthly Style "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dusk Dune Ambassador Blazer "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BULWARK "
+        }
+    ]
+}

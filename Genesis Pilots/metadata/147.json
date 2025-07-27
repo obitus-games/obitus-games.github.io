@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #147",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 147,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Neptune's Trench Cypher 5 "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Midnight Phoenix Cut "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Neptune's Trench Ambassador Blazer "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SPECTER "
+        }
+    ]
+}

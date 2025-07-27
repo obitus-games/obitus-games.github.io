@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #204",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 204,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stardust Way Aural Filter TX "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Radiant Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dusk Dune Exile Outfit "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BLITZRAY "
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #205",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 205,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Volcanic Dust EchoTap 300M "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Cryo Earthly Style "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Meteor Shard Recon Jumper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum BLITZRAY "
+        }
+    ]
+}

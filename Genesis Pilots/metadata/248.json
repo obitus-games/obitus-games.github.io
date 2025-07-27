@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #248",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 248,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Volcanic Dust EchoTap 300M "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Ronin "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Cryo Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Xenoflora Exile Outfit "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radiant Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum ARC-WAVE "
+        }
+    ]
+}

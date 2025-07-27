@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #60",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 60,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Emerald Eruption BULWARK "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nebula Infernal "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Phase Shield Front "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Dwarf Orbital Flightsuit "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium SPECTER "
+        }
+    ]
+}

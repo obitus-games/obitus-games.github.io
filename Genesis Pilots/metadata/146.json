@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #146",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 146,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Meteor Shard EchoTap 300M "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fusion Glitch Bob "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Meteor Shard Recon Jumper "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Soft Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Amber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum GLAIVE "
+        }
+    ]
+}

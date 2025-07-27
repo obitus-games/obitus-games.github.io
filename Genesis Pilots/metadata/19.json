@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #19",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 19,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Electric Cherry Blossom BLITZRAY "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Orion Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Phase Ion Wave "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Celestial Mist Crystal Dressings "
+        },
+        {
+            "trait_type": "Eyes ",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium BULWARK "
+        }
+    ]
+}

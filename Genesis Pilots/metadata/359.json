@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #359",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 359,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dusk Dune EchoTap 300M "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Glacial Slate Bold Robes "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Radiant Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Cryo Neural Stands "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Earnest Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum ARC-WAVE "
+        }
+    ]
+}

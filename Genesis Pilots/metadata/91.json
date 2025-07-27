@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #91",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 91,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Crimson Thunder ARC-WAVE "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nebula Lumen "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Plasma Shield Front "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Genesis Biome\u00a0Techno Vestments "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quartz Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium SPECTER "
+        }
+    ]
+}

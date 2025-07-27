@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #175",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 175,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Volcanic Dust EchoTap 300M "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Nightfall Vector "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Xeno Earthly Style "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hydrocarbon Green Ambassador Blazer "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Umber Female "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SPECTER "
+        }
+    ]
+}

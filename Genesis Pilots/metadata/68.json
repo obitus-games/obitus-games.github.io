@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #68",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 68,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Electric Cherry Blossom BLITZRAY "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Cosmic Infernal "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Matrix Shield Front "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Dwarf Techno Vestments "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Onyx Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Elysium BULWARK "
+        }
+    ]
+}

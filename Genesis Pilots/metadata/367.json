@@ -1,0 +1,40 @@
+{
+    "name": "Genesis Pilots #367",
+    "description": "",
+    "image": "To be replaced",
+    "edition": 367,
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Neptune's Trench Aural Filter TX "
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hydrocarbon Green Bold Robes "
+        },
+        {
+            "trait_type": "M.I.N.D.",
+            "value": "Circuit Ghost "
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Foundry Hidden Village Tie-up "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sharp Eyes "
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sepia Male "
+        },
+        {
+            "trait_type": "Background",
+            "value": "Quantum SWIFT-EDGE "
+        }
+    ]
+}
