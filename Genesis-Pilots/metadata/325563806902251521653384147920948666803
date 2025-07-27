@@ -10,19 +10,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Ollie's Accessory"
+      "value": "Traveler's Backpack"
     },
     {
       "trait_type": "M.I.N.D.",
-      "value": "Ollie's M.I.N.D"
+      "value": "Azure Synapse Clip"
     },
     {
       "trait_type": "Hair",
-      "value": "Ollie's Hair"
+      "value": "Apex Tousle"
     },
     {
       "trait_type": "Clothing",
-      "value": "Ollie's Clothing"
+      "value": "Golden Kinetic Gear"
     },
     {
       "trait_type": "Eyes",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Background",
-      "value": "Ollie's Background"
+      "value": "Coreblood Maroon Glaive"
     }
   ]
 }

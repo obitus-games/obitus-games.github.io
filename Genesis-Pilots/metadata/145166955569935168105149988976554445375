@@ -10,19 +10,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silas's Accessory"
+      "value": "Last Soldier Dog Tags"
     },
     {
       "trait_type": "M.I.N.D.",
-      "value": "Silas's M.I.N.D"
+      "value": "Plasma Sentinel"
     },
     {
       "trait_type": "Hair",
-      "value": "Silas's Hair"
+      "value": "Garrison Grey"
     },
     {
       "trait_type": "Clothing",
-      "value": "Silas's Clothing"
+      "value": "Indigo Specialist's Regalia"
     },
     {
       "trait_type": "Eyes",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Background",
-      "value": "Silas's Background"
+      "value": "Pulse Grove Specter"
     }
   ]
 }

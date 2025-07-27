@@ -10,19 +10,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Liz's Accessory"
+      "value": "Cybernetic Spikes"
     },
     {
       "trait_type": "M.I.N.D.",
-      "value": "Liz's M.I.N.D"
+      "value": "Redlink Revolt"
     },
     {
       "trait_type": "Hair",
-      "value": "Liz's Hair"
+      "value": "Shadow Riot Spikes"
     },
     {
       "trait_type": "Clothing",
-      "value": "Liz's Clothing"
+      "value": "Stormwatch Outlaw Jacket"
     },
     {
       "trait_type": "Eyes",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Background",
-      "value": "Liz's Background"
+      "value": "Synth Petal Arc-Wave"
     }
   ]
 }

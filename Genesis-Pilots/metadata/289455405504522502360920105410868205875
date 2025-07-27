@@ -10,19 +10,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Selene's Accessory"
+      "value": "Multi-Tool Scarf"
     },
     {
       "trait_type": "M.I.N.D.",
-      "value": "Selene's M.I.N.D"
+      "value": "Enigma Blue Circuit"
     },
     {
       "trait_type": "Hair",
-      "value": "Selene's Hair"
+      "value": "Shadowfall Bob"
     },
     {
       "trait_type": "Clothing",
-      "value": "Selene's Clothing"
+      "value": "Dominion Blue Ensemble"
     },
     {
       "trait_type": "Eyes",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Background",
-      "value": "Selene's Background"
+      "value": "Phase Shift Swift-Edge"
     }
   ]
 }
