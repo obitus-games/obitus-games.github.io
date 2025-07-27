@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #236",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 236,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Glacial Slate Aural Filter TX "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Circuit Vector "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Radiant Glitch Bob "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Volcanic Dust Recon Jumper "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum BULWARK "
-        }
-    ]
+  "name": "Genesis Pilot #236",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/236.png",
+  "edition": "236",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Glacial Slate Aural Filter TX"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Circuit Vector"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Radiant Glitch Bob"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Volcanic Dust Recon Jumper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum BULWARK"
+    }
+  ]
 }

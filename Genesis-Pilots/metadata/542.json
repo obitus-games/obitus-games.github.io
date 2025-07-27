@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #542",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 542,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Canyon Tune 300 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Veridian Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Photon Vector Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Canyon Junior Garb "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #542",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/542.png",
+  "edition": "542",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Canyon Tune 300"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Veridian Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Photon Vector Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Canyon Junior Garb"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia ARC-WAVE"
+    }
+  ]
 }

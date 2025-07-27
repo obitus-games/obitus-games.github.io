@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #961",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 961,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Glacier EchoBridge "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Terra Rookie Jumpsuit "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Veridian Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Sienna Tactical Top "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #961",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/961.png",
+  "edition": "961",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Glacier EchoBridge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Terra Rookie Jumpsuit"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Veridian Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sienna Tactical Top"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia ARC-WAVE"
+    }
+  ]
 }

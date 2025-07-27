@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #9",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 9,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Electric Cherry Blossom BLITZRAY "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Orion Infernal "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Flux Ion Wave "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Sublunar Shadow Crystal Dressings "
-        },
-        {
-            "trait_type": "Eyes ",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium BLITZRAY "
-        }
-    ]
+  "name": "Genesis Pilot #9",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/9.png",
+  "edition": "9",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Electric Cherry Blossom BLITZRAY"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Orion Infernal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flux Ion Wave"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sublunar Shadow Crystal Dressings"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium BLITZRAY"
+    }
+  ]
 }

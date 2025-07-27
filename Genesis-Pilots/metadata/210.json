@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #210",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 210,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Xenoflora Cypher 5 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nightfall Ghost "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Glimmer Glitch Bob "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Stardust Way Recon Jumper "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SWIFT-EDGE "
-        }
-    ]
+  "name": "Genesis Pilot #210",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/210.png",
+  "edition": "210",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Xenoflora Cypher 5"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nightfall Ghost"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Glimmer Glitch Bob"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Stardust Way Recon Jumper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SWIFT-EDGE"
+    }
+  ]
 }

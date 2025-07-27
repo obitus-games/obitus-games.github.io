@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #616",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 616,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Lunar Tune 300 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Cobalt Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Pewter Cascade Lock "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Lunar Formal Garb "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #616",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/616.png",
+  "edition": "616",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Lunar Tune 300"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Cobalt Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pewter Cascade Lock"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Lunar Formal Garb"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia ARC-WAVE"
+    }
+  ]
 }

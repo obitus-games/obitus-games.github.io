@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #249",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 249,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Stardust Way Cyto Pro DX "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Radiant Ghost "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Cryo Phoenix Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Stardust Way Ambassador Blazer "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Pensive Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum BLITZRAY "
-        }
-    ]
+  "name": "Genesis Pilot #249",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/249.png",
+  "edition": "249",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stardust Way Cyto Pro DX"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Radiant Ghost"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cryo Phoenix Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Stardust Way Ambassador Blazer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pensive Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum BLITZRAY"
+    }
+  ]
 }

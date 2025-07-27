@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #935",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 935,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Lunar Helix Amp "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Canyon Explorer Jumpsuit "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Cobalt Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Lapis Gravity Drop "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #935",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/935.png",
+  "edition": "935",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Lunar Helix Amp"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Canyon Explorer Jumpsuit"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Cobalt Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Lapis Gravity Drop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia ARC-WAVE"
+    }
+  ]
 }

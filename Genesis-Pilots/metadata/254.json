@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #254",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 254,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Stardust Way Cyto Pro DX "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Glacial Slate Outcast Wear "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Radiant Ghost "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Xeno Neural Stands "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum BLITZRAY "
-        }
-    ]
+  "name": "Genesis Pilot #254",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/254.png",
+  "edition": "254",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stardust Way Cyto Pro DX"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Glacial Slate Outcast Wear"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Radiant Ghost"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Xeno Neural Stands"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum BLITZRAY"
+    }
+  ]
 }

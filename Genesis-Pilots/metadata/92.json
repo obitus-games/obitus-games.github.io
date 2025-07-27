@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #92",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 92,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Emerald Eruption BULWARK "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Orion Lumen "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Flux Spike Grid "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Genesis Biome\u00a0Riot Cloak "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Calm Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium BLITZRAY "
-        }
-    ]
+  "name": "Genesis Pilot #92",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/92.png",
+  "edition": "92",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Emerald Eruption BULWARK"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Orion Lumen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flux Spike Grid"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Genesis Biome Riot Cloak"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Calm Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium BLITZRAY"
+    }
+  ]
 }

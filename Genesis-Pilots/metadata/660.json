@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #660",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 660,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Martian Tune 300 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Vulcan Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Sienna Vector Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Martian Formal Garb "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia BLITZRAY "
-        }
-    ]
+  "name": "Genesis Pilot #660",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/660.png",
+  "edition": "660",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Martian Tune 300"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Vulcan Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sienna Vector Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Martian Formal Garb"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia BLITZRAY"
+    }
+  ]
 }

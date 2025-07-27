@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #643",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 643,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Terra Ocular Bridge PX "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Vulcan Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Lapis Drop-tail "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Terra Formal Garb "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Pensive Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia BLITZRAY "
-        }
-    ]
+  "name": "Genesis Pilot #643",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/643.png",
+  "edition": "643",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Terra Ocular Bridge PX"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Vulcan Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Lapis Drop-tail"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Terra Formal Garb"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pensive Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia BLITZRAY"
+    }
+  ]
 }

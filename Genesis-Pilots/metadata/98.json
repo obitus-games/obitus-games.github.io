@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #98",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 98,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Electric Cherry Blossom BLITZRAY "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Cosmic Infernal "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Flux Spike Grid "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "White Dwarf Techno Vestments "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium GLAIVE "
-        }
-    ]
+  "name": "Genesis Pilot #98",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/98.png",
+  "edition": "98",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Electric Cherry Blossom BLITZRAY"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Cosmic Infernal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flux Spike Grid"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Dwarf Techno Vestments"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium GLAIVE"
+    }
+  ]
 }

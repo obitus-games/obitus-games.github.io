@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #972",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 972,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Glacier EchoBridge "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Lunar Explorer Jumpsuit "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Vulcan Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Pewter Sweeper "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia SWIFT-EDGE "
-        }
-    ]
+  "name": "Genesis Pilot #972",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/972.png",
+  "edition": "972",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Glacier EchoBridge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Lunar Explorer Jumpsuit"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Vulcan Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pewter Sweeper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia SWIFT-EDGE"
+    }
+  ]
 }

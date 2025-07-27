@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #31",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 31,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Midnight Aura SWIFT-EDGE "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nebula Lumen "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Matrix Magma Uplift "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Celestial Mist Royal Attire "
-        },
-        {
-            "trait_type": "Eyes ",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #31",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/31.png",
+  "edition": "31",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Midnight Aura SWIFT-EDGE"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nebula Lumen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Matrix Magma Uplift"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Celestial Mist Royal Attire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium SPECTER"
+    }
+  ]
 }

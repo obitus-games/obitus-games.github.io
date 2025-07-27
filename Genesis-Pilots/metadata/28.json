@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #28",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 28,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Divine Chroma GLAIVE "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nebula Infernal "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Matrix Ion Wave "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Genesis Biome Royal Attire "
-        },
-        {
-            "trait_type": "Eyes ",
-            "value": "Pensive Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium GLAIVE "
-        }
-    ]
+  "name": "Genesis Pilot #28",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/28.png",
+  "edition": "28",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Divine Chroma GLAIVE"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nebula Infernal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Matrix Ion Wave"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Genesis Biome Royal Attire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pensive Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium GLAIVE"
+    }
+  ]
 }

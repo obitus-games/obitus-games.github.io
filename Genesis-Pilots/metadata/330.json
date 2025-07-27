@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #330",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 330,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Neptune's Trench Cyto Pro DX "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Volcanic Dust Hermit Apparel "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Circuit Ghost "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Glimmer Neon Nights Bedhead "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum BULWARK "
-        }
-    ]
+  "name": "Genesis Pilot #330",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/330.png",
+  "edition": "330",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Neptune's Trench Cyto Pro DX"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Volcanic Dust Hermit Apparel"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Circuit Ghost"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Glimmer Neon Nights Bedhead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum BULWARK"
+    }
+  ]
 }

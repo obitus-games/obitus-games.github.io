@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #47",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 47,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Divine Chroma GLAIVE "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Cosmic Lumen "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Bloom Magma Uplift "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Sublunar Shadow Crystal Dressings "
-        },
-        {
-            "trait_type": "Eyes ",
-            "value": "Pensive Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #47",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/47.png",
+  "edition": "47",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Divine Chroma GLAIVE"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Cosmic Lumen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bloom Magma Uplift"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sublunar Shadow Crystal Dressings"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pensive Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium ARC-WAVE"
+    }
+  ]
 }

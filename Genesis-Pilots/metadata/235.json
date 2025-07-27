@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #235",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 235,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Xenoflora Cyto Pro DX "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Circuit Ronin "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Glimmer Phoenix Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Meteor Shard Ambassador Blazer "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #235",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/235.png",
+  "edition": "235",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Xenoflora Cyto Pro DX"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Circuit Ronin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Glimmer Phoenix Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Meteor Shard Ambassador Blazer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SPECTER"
+    }
+  ]
 }

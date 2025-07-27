@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #898",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 898,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Lunar Ocular Bridge PX "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Lunar Explorer Jumpsuit "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Veridian Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Kelp Gravity Drop "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Calm Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia GLAIVE "
-        }
-    ]
+  "name": "Genesis Pilot #898",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/898.png",
+  "edition": "898",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Lunar Ocular Bridge PX"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Lunar Explorer Jumpsuit"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Veridian Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Kelp Gravity Drop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Calm Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia GLAIVE"
+    }
+  ]
 }

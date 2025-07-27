@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #891",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 891,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Glacier Tune 300 "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Glacier Rookie Jumpsuit "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Vulcan Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Fey Gravity Drop "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia BULWARK "
-        }
-    ]
+  "name": "Genesis Pilot #891",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/891.png",
+  "edition": "891",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Glacier Tune 300"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Glacier Rookie Jumpsuit"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Vulcan Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fey Gravity Drop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia BULWARK"
+    }
+  ]
 }

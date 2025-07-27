@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #7",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 7,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Emerald Eruption BULWARK "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nebula Infernal "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Matrix Magma Uplift "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Sublunar Shadow Duel Ensemble "
-        },
-        {
-            "trait_type": "Eyes ",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium GLAIVE "
-        }
-    ]
+  "name": "Liz",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/2.png",
+  "edition": "2",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Liz's Accessory"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Liz's M.I.N.D"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Liz's Hair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Liz's Clothing"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Liz's Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Liz's Body"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Liz's Background"
+    }
+  ]
 }

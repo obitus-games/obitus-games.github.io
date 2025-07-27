@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #335",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 335,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Volcanic Dust Cyto Pro DX "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Meteor Shard Hermit Apparel "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Circuit Ronin "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Xeno Neural Stands "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum BLITZRAY "
-        }
-    ]
+  "name": "Genesis Pilot #335",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/335.png",
+  "edition": "335",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Volcanic Dust Cyto Pro DX"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Meteor Shard Hermit Apparel"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Circuit Ronin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Xeno Neural Stands"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum BLITZRAY"
+    }
+  ]
 }

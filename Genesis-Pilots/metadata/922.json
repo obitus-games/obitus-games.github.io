@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #922",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 922,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Martian NeurEx Circlet v.7 "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Martian Rookie Jumpsuit "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Cobalt Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Pewter Gravity Drop "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Calm Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia GLAIVE "
-        }
-    ]
+  "name": "Genesis Pilot #922",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/922.png",
+  "edition": "922",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Martian NeurEx Circlet v.7"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Martian Rookie Jumpsuit"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Cobalt Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pewter Gravity Drop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Calm Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia GLAIVE"
+    }
+  ]
 }

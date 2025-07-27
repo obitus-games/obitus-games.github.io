@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #511",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 511,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Martian EchoBridge "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Vulcan Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Photon Vector Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Canyon Formal Garb "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia BULWARK "
-        }
-    ]
+  "name": "Genesis Pilot #511",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/511.png",
+  "edition": "511",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Martian EchoBridge"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Vulcan Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Photon Vector Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Canyon Formal Garb"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia BULWARK"
+    }
+  ]
 }

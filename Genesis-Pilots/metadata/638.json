@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #638",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 638,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Terra Helix Amp "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Cobalt Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Photon Drop-tail "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Canyon Formal Garb "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia BLITZRAY "
-        }
-    ]
+  "name": "Genesis Pilot #638",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/638.png",
+  "edition": "638",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Terra Helix Amp"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Cobalt Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Photon Drop-tail"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Canyon Formal Garb"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia BLITZRAY"
+    }
+  ]
 }

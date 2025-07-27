@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #342",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 342,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Meteor Shard EchoTap 300M "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Meteor Shard Outcast Wear "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nightfall Ronin "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Phase Neon Nights Bedhead "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #342",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/342.png",
+  "edition": "342",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Meteor Shard EchoTap 300M"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Meteor Shard Outcast Wear"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nightfall Ronin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Phase Neon Nights Bedhead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum ARC-WAVE"
+    }
+  ]
 }

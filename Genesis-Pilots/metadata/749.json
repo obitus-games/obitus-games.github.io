@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #749",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 749,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Canyon Ocular Bridge PX "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Glacier Rookie Jumpsuit "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Vulcan Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Sable Unit Cut "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #749",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/749.png",
+  "edition": "749",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Canyon Ocular Bridge PX"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Glacier Rookie Jumpsuit"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Vulcan Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sable Unit Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia SPECTER"
+    }
+  ]
 }

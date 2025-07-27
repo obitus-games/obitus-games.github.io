@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #121",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 121,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Stardust Way EchoTap 300M "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Radiant Ronin "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Radiant Phoenix Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Volcanic Dust Ambassador Blazer "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum BLITZRAY "
-        }
-    ]
+  "name": "Genesis Pilot #121",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/121.png",
+  "edition": "121",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stardust Way EchoTap 300M"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Radiant Ronin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Radiant Phoenix Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Volcanic Dust Ambassador Blazer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum BLITZRAY"
+    }
+  ]
 }

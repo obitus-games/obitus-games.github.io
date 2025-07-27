@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #37",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 37,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Electric Cherry Blossom BLITZRAY "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Cosmic Infernal "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Plasma Magma Uplift "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Void Flare Duel Ensemble "
-        },
-        {
-            "trait_type": "Eyes ",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #37",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/37.png",
+  "edition": "37",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Electric Cherry Blossom BLITZRAY"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Cosmic Infernal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Plasma Magma Uplift"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Flare Duel Ensemble"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium SPECTER"
+    }
+  ]
 }

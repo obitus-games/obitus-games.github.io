@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #51",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 51,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Emerald Eruption BULWARK "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Orion Lumen "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Plasma Ion Wave "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "White Dwarf Crystal Dressings "
-        },
-        {
-            "trait_type": "Eyes ",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium BLITZRAY "
-        }
-    ]
+  "name": "Genesis Pilot #51",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/51.png",
+  "edition": "51",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Emerald Eruption BULWARK"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Orion Lumen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Plasma Ion Wave"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Dwarf Crystal Dressings"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium BLITZRAY"
+    }
+  ]
 }

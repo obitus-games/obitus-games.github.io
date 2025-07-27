@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #949",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 949,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Terra Helix Amp "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Glacier Rookie Jumpsuit "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Veridian Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Sienna Unit Cut "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia BULWARK "
-        }
-    ]
+  "name": "Genesis Pilot #949",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/949.png",
+  "edition": "949",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Terra Helix Amp"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Glacier Rookie Jumpsuit"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Veridian Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sienna Unit Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia BULWARK"
+    }
+  ]
 }

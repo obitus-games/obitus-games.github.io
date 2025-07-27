@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #90",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 90,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Divine Chroma GLAIVE "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nebula Infernal "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Flux Spike Grid "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Void Flare Riot Cloak "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium BULWARK "
-        }
-    ]
+  "name": "Genesis Pilot #90",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/90.png",
+  "edition": "90",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Divine Chroma GLAIVE"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nebula Infernal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flux Spike Grid"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Flare Riot Cloak"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium BULWARK"
+    }
+  ]
 }

@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #540",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 540,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Terra NeurEx Circlet v.7 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Cobalt Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Sienna Aero Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Canyon Formal Garb "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia BULWARK "
-        }
-    ]
+  "name": "Genesis Pilot #540",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/540.png",
+  "edition": "540",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Terra NeurEx Circlet v.7"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Cobalt Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sienna Aero Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Canyon Formal Garb"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia BULWARK"
+    }
+  ]
 }

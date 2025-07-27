@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #195",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 195,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Dusk Dune Receptor RCP-9 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Radiant Ronin "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Foundry Phoenix Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Xenoflora Exile Outfit "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #195",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/195.png",
+  "edition": "195",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dusk Dune Receptor RCP-9"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Radiant Ronin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Foundry Phoenix Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Xenoflora Exile Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SPECTER"
+    }
+  ]
 }

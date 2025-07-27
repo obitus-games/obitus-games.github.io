@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #188",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 188,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Volcanic Dust Cypher 5 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Radiant Ronin "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Xeno Earthly Style "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Dusk Dune Recon Jumper "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Pensive Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #188",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/188.png",
+  "edition": "188",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Volcanic Dust Cypher 5"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Radiant Ronin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Xeno Earthly Style"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dusk Dune Recon Jumper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pensive Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SPECTER"
+    }
+  ]
 }

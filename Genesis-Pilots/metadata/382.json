@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #382",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 382,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Stardust Way Receptor RCP-9 "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Glacial Slate Outcast Wear "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Circuit Ronin "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Xeno Neon Nights Bedhead "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Calm Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #382",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/382.png",
+  "edition": "382",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stardust Way Receptor RCP-9"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Glacial Slate Outcast Wear"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Circuit Ronin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Xeno Neon Nights Bedhead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Calm Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum ARC-WAVE"
+    }
+  ]
 }

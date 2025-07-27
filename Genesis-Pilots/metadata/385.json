@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #385",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 385,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Neptune's Trench Cyto Pro DX "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Dusk Dune Bold Robes "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Circuit Ronin "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Xeno Neural Stands "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Calm Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #385",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/385.png",
+  "edition": "385",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Neptune's Trench Cyto Pro DX"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dusk Dune Bold Robes"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Circuit Ronin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Xeno Neural Stands"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Calm Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum ARC-WAVE"
+    }
+  ]
 }

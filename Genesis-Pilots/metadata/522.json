@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #522",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 522,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Glacier Tune 300 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Veridian Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Sable Cascade Lock "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Martian Formal Garb "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Pensive Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia BLITZRAY "
-        }
-    ]
+  "name": "Genesis Pilot #522",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/522.png",
+  "edition": "522",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Glacier Tune 300"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Veridian Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sable Cascade Lock"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Martian Formal Garb"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pensive Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia BLITZRAY"
+    }
+  ]
 }

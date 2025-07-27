@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #124",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 124,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Volcanic Dust EchoTap 300M "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Circuit Ghost "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Fusion Earthly Style "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Neptune's Trench Ambassador Blazer "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #124",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/124.png",
+  "edition": "124",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Volcanic Dust EchoTap 300M"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Circuit Ghost"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fusion Earthly Style"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Neptune's Trench Ambassador Blazer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum ARC-WAVE"
+    }
+  ]
 }

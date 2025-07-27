@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #760",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 760,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Terra NeurEx Circlet v.7 "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Canyon Rookie Jumpsuit "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Vulcan Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Midas Sweeper "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #760",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/760.png",
+  "edition": "760",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Terra NeurEx Circlet v.7"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Canyon Rookie Jumpsuit"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Vulcan Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Midas Sweeper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia ARC-WAVE"
+    }
+  ]
 }

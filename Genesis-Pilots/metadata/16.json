@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #16",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 16,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Midnight Aura SWIFT-EDGE "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Cosmic Lumen "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Plasma Ion Wave "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Celestial Mist Duel Ensemble "
-        },
-        {
-            "trait_type": "Eyes ",
-            "value": "Pensive Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium GLAIVE "
-        }
-    ]
+  "name": "Genesis Pilot #16",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/16.png",
+  "edition": "16",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Midnight Aura SWIFT-EDGE"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Cosmic Lumen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Plasma Ion Wave"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Celestial Mist Duel Ensemble"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pensive Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium GLAIVE"
+    }
+  ]
 }

@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #720",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 720,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Terra Ocular Bridge PX "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Glacier Explorer Jumpsuit "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Cobalt Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Lapis Gravity Drop "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia BULWARK "
-        }
-    ]
+  "name": "Genesis Pilot #720",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/720.png",
+  "edition": "720",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Terra Ocular Bridge PX"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Glacier Explorer Jumpsuit"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Cobalt Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Lapis Gravity Drop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia BULWARK"
+    }
+  ]
 }

@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #317",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 317,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Glacial Slate Aural Filter TX "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Stardust Way Hermit Apparel "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Radiant Ghost "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Radiant Neon Nights Bedhead "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SWIFT-EDGE "
-        }
-    ]
+  "name": "Genesis Pilot #317",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/317.png",
+  "edition": "317",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Glacial Slate Aural Filter TX"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Stardust Way Hermit Apparel"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Radiant Ghost"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Radiant Neon Nights Bedhead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SWIFT-EDGE"
+    }
+  ]
 }

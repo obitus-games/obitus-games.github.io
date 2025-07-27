@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #240",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 240,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Glacial Slate Receptor RCP-9 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Radiant Ronin "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Xeno Phoenix Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Hydrocarbon Green Recon Jumper "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #240",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/240.png",
+  "edition": "240",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Glacial Slate Receptor RCP-9"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Radiant Ronin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Xeno Phoenix Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hydrocarbon Green Recon Jumper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum ARC-WAVE"
+    }
+  ]
 }

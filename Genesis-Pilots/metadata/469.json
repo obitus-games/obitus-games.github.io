@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #469",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 469,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Glacier Helix Amp "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Veridian Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Photon Vector Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Lunar Junior Garb "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Pensive Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #469",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/469.png",
+  "edition": "469",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Glacier Helix Amp"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Veridian Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Photon Vector Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Lunar Junior Garb"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pensive Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia SPECTER"
+    }
+  ]
 }

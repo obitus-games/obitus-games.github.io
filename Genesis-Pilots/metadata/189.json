@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #189",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 189,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Dusk Dune Cypher 5 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Radiant Ronin "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Xeno Phoenix Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Volcanic Dust Ambassador Blazer "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum GLAIVE "
-        }
-    ]
+  "name": "Genesis Pilot #189",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/189.png",
+  "edition": "189",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dusk Dune Cypher 5"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Radiant Ronin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Xeno Phoenix Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Volcanic Dust Ambassador Blazer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum GLAIVE"
+    }
+  ]
 }

@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #127",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 127,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Stardust Way Aural Filter TX "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Circuit Ronin "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Phase Glitch Bob "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Meteor Shard Exile Outfit "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum BLITZRAY "
-        }
-    ]
+  "name": "Genesis Pilot #127",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/127.png",
+  "edition": "127",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stardust Way Aural Filter TX"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Circuit Ronin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Phase Glitch Bob"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Meteor Shard Exile Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum BLITZRAY"
+    }
+  ]
 }

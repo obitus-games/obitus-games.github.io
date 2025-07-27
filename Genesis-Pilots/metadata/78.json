@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #78",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 78,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Obsidian Nightfall SPECTER "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nebula Lumen "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Matrix Edged Quills "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Celestial Mist Techno Vestments "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium BLITZRAY "
-        }
-    ]
+  "name": "Genesis Pilot #78",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/78.png",
+  "edition": "78",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Obsidian Nightfall SPECTER"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nebula Lumen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Matrix Edged Quills"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Celestial Mist Techno Vestments"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium BLITZRAY"
+    }
+  ]
 }

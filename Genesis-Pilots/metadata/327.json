@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #327",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 327,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Dusk Dune Cyto Pro DX "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Glacial Slate Bold Robes "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Circuit Ronin "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Cryo Hidden Village Tie-up "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Calm Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum GLAIVE "
-        }
-    ]
+  "name": "Genesis Pilot #327",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/327.png",
+  "edition": "327",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dusk Dune Cyto Pro DX"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Glacial Slate Bold Robes"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Circuit Ronin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cryo Hidden Village Tie-up"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Calm Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum GLAIVE"
+    }
+  ]
 }

@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #787",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 787,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Canyon EchoBridge "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Canyon Rookie Jumpsuit "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Vulcan Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Sable Gravity Drop "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Calm Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia SWIFT-EDGE "
-        }
-    ]
+  "name": "Genesis Pilot #787",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/787.png",
+  "edition": "787",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Canyon EchoBridge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Canyon Rookie Jumpsuit"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Vulcan Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sable Gravity Drop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Calm Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia SWIFT-EDGE"
+    }
+  ]
 }

@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #225",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 225,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Dusk Dune Receptor RCP-9 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Circuit Ghost "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Radiant Glitch Bob "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Neptune's Trench Ambassador Blazer "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #225",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/225.png",
+  "edition": "225",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dusk Dune Receptor RCP-9"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Circuit Ghost"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Radiant Glitch Bob"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Neptune's Trench Ambassador Blazer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SPECTER"
+    }
+  ]
 }

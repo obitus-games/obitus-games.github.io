@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #182",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 182,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Stardust Way EchoTap 300M "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Radiant Ronin "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Glimmer Glitch Bob "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Dusk Dune Exile Outfit "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum BULWARK "
-        }
-    ]
+  "name": "Genesis Pilot #182",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/182.png",
+  "edition": "182",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stardust Way EchoTap 300M"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Radiant Ronin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Glimmer Glitch Bob"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dusk Dune Exile Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum BULWARK"
+    }
+  ]
 }

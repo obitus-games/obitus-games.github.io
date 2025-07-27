@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #319",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 319,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Glacial Slate Cyto Pro DX "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Neptune's Trench Bold Robes "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Circuit Vector "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Fusion Neon Nights Bedhead "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Calm Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SWIFT-EDGE "
-        }
-    ]
+  "name": "Genesis Pilot #319",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/319.png",
+  "edition": "319",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Glacial Slate Cyto Pro DX"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Neptune's Trench Bold Robes"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Circuit Vector"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fusion Neon Nights Bedhead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Calm Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SWIFT-EDGE"
+    }
+  ]
 }

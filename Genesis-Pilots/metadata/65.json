@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #65",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 65,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Electric Cherry Blossom BLITZRAY "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Orion Lumen "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Phase Spike Grid "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Polaris Geyser Techno Vestments "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Calm Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium BLITZRAY "
-        }
-    ]
+  "name": "Genesis Pilot #65",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/65.png",
+  "edition": "65",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Electric Cherry Blossom BLITZRAY"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Orion Lumen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Phase Spike Grid"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Polaris Geyser Techno Vestments"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Calm Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium BLITZRAY"
+    }
+  ]
 }

@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #563",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 563,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Canyon Helix Amp "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Vulcan Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Steel Cascade Lock "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Martian Junior Garb "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia GLAIVE "
-        }
-    ]
+  "name": "Genesis Pilot #563",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/563.png",
+  "edition": "563",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Canyon Helix Amp"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Vulcan Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Steel Cascade Lock"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Martian Junior Garb"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia GLAIVE"
+    }
+  ]
 }

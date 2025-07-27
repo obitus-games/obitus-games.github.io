@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #306",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 306,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Stardust Way Receptor RCP-9 "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Stardust Way Hermit Apparel "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Radiant Ghost "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Fusion Hidden Village Tie-up "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Calm Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #306",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/306.png",
+  "edition": "306",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stardust Way Receptor RCP-9"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Stardust Way Hermit Apparel"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Radiant Ghost"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fusion Hidden Village Tie-up"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Calm Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SPECTER"
+    }
+  ]
 }

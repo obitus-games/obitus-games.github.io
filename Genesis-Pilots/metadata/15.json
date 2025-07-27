@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #15",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 15,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Crimson Thunder ARC-WAVE "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Orion Infernal "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Phase Monolithic Crest "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Genesis Biome Royal Attire "
-        },
-        {
-            "trait_type": "Eyes ",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #15",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/15.png",
+  "edition": "15",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crimson Thunder ARC-WAVE"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Orion Infernal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Phase Monolithic Crest"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Genesis Biome Royal Attire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium SPECTER"
+    }
+  ]
 }

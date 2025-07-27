@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #384",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 384,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Volcanic Dust Aural Filter TX "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Neptune's Trench Hermit Apparel "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nightfall Ghost "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Glimmer Neon Nights Bedhead "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Calm Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SWIFT-EDGE "
-        }
-    ]
+  "name": "Genesis Pilot #384",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/384.png",
+  "edition": "384",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Volcanic Dust Aural Filter TX"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Neptune's Trench Hermit Apparel"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nightfall Ghost"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Glimmer Neon Nights Bedhead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Calm Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SWIFT-EDGE"
+    }
+  ]
 }

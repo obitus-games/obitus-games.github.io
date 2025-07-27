@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #118",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 118,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Hydrocarbon Green Cyto Pro DX "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Circuit Vector "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Glimmer Phoenix Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Meteor Shard Exile Outfit "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SWIFT-EDGE "
-        }
-    ]
+  "name": "Genesis Pilot #118",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/118.png",
+  "edition": "118",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hydrocarbon Green Cyto Pro DX"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Circuit Vector"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Glimmer Phoenix Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Meteor Shard Exile Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SWIFT-EDGE"
+    }
+  ]
 }

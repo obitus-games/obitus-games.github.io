@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #337",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 337,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Dusk Dune Cyto Pro DX "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Xenoflora Outcast Wear "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Radiant Ghost "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Phase Neural Stands "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #337",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/337.png",
+  "edition": "337",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dusk Dune Cyto Pro DX"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Xenoflora Outcast Wear"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Radiant Ghost"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Phase Neural Stands"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SPECTER"
+    }
+  ]
 }

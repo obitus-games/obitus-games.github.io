@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #364",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 364,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Hydrocarbon Green EchoTap 300M "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Stardust Way Bold Robes "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Radiant Vector "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Cryo Neural Stands "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #364",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/364.png",
+  "edition": "364",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hydrocarbon Green EchoTap 300M"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Stardust Way Bold Robes"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Radiant Vector"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cryo Neural Stands"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SPECTER"
+    }
+  ]
 }

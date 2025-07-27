@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #437",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 437,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Martian Ocular Bridge PX "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Vulcan Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Pewter Drop-tail "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Martian Junior Garb "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #437",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/437.png",
+  "edition": "437",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Martian Ocular Bridge PX"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Vulcan Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pewter Drop-tail"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Martian Junior Garb"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia SPECTER"
+    }
+  ]
 }

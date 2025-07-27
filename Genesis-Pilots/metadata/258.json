@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #258",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 258,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Stardust Way EchoTap 300M "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Glacial Slate Hermit Apparel "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nightfall Vector "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Cryo Hidden Village Tie-up "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Calm Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #258",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/258.png",
+  "edition": "258",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stardust Way EchoTap 300M"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Glacial Slate Hermit Apparel"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nightfall Vector"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cryo Hidden Village Tie-up"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Calm Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SPECTER"
+    }
+  ]
 }

@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #30",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 30,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Midnight Aura SWIFT-EDGE "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nebula Infernal "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Plasma Ion Wave "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "White Dwarf Royal Attire "
-        },
-        {
-            "trait_type": "Eyes ",
-            "value": "Pensive Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium BULWARK "
-        }
-    ]
+  "name": "Genesis Pilot #30",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/30.png",
+  "edition": "30",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Midnight Aura SWIFT-EDGE"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nebula Infernal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Plasma Ion Wave"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Dwarf Royal Attire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pensive Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium BULWARK"
+    }
+  ]
 }

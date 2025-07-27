@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #286",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 286,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Hydrocarbon Green Receptor RCP-9 "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Stardust Way Hermit Apparel "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nightfall Ghost "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Foundry Neon Nights Bedhead "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum BULWARK "
-        }
-    ]
+  "name": "Genesis Pilot #286",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/286.png",
+  "edition": "286",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hydrocarbon Green Receptor RCP-9"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Stardust Way Hermit Apparel"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nightfall Ghost"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Foundry Neon Nights Bedhead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum BULWARK"
+    }
+  ]
 }

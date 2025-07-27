@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #301",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 301,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Xenoflora EchoTap 300M "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Xenoflora Outcast Wear "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Circuit Vector "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Foundry Hidden Village Tie-up "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #301",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/301.png",
+  "edition": "301",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Xenoflora EchoTap 300M"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Xenoflora Outcast Wear"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Circuit Vector"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Foundry Hidden Village Tie-up"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SPECTER"
+    }
+  ]
 }

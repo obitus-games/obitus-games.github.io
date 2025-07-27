@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #104",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 104,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Volcanic Dust Cyto Pro DX "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Radiant Vector "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Foundry Glitch Bob "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Hydrocarbon Green Ambassador Blazer "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #104",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/104.png",
+  "edition": "104",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Volcanic Dust Cyto Pro DX"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Radiant Vector"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Foundry Glitch Bob"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hydrocarbon Green Ambassador Blazer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SPECTER"
+    }
+  ]
 }

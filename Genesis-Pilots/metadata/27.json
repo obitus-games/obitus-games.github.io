@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #27",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 27,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Electric Cherry Blossom BLITZRAY "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Orion Lumen "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Phase Ion Wave "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Celestial Mist Crystal Dressings "
-        },
-        {
-            "trait_type": "Eyes ",
-            "value": "Pensive Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium BULWARK "
-        }
-    ]
+  "name": "Genesis Pilot #27",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/27.png",
+  "edition": "27",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Electric Cherry Blossom BLITZRAY"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Orion Lumen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Phase Ion Wave"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Celestial Mist Crystal Dressings"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pensive Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium BULWARK"
+    }
+  ]
 }

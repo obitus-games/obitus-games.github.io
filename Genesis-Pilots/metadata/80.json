@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #80",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 80,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Obsidian Nightfall SPECTER "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Cosmic Infernal "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Plasma Edged Quills "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Genesis Biome\u00a0Techno Vestments "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #80",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/80.png",
+  "edition": "80",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Obsidian Nightfall SPECTER"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Cosmic Infernal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Plasma Edged Quills"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Genesis Biome Techno Vestments"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium ARC-WAVE"
+    }
+  ]
 }

@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #53",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 53,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Obsidian Nightfall SPECTER "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Orion Infernal "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Bloom Ion Wave "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Sublunar Shadow Royal Attire "
-        },
-        {
-            "trait_type": "Eyes ",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium GLAIVE "
-        }
-    ]
+  "name": "Genesis Pilot #53",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/53.png",
+  "edition": "53",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Obsidian Nightfall SPECTER"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Orion Infernal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bloom Ion Wave"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sublunar Shadow Royal Attire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium GLAIVE"
+    }
+  ]
 }

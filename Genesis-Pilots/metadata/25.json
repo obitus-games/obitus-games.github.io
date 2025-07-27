@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #25",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 25,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Emerald Eruption BULWARK "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nebula Lumen "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Phase Ion Wave "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Void Flare Royal Attire "
-        },
-        {
-            "trait_type": "Eyes ",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium BLITZRAY "
-        }
-    ]
+  "name": "Genesis Pilot #25",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/25.png",
+  "edition": "25",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Emerald Eruption BULWARK"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nebula Lumen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Phase Ion Wave"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Flare Royal Attire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium BLITZRAY"
+    }
+  ]
 }

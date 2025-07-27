@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #615",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 615,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Martian NeurEx Circlet v.7 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Vulcan Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Lapis Cascade Lock "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Glacier Formal Garb "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia SWIFT-EDGE "
-        }
-    ]
+  "name": "Genesis Pilot #615",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/615.png",
+  "edition": "615",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Martian NeurEx Circlet v.7"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Vulcan Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Lapis Cascade Lock"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Glacier Formal Garb"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia SWIFT-EDGE"
+    }
+  ]
 }

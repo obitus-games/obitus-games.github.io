@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #247",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 247,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Xenoflora Cypher 5 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nightfall Ronin "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Phase Phoenix Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Meteor Shard Exile Outfit "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Pensive Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum BULWARK "
-        }
-    ]
+  "name": "Genesis Pilot #247",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/247.png",
+  "edition": "247",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Xenoflora Cypher 5"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nightfall Ronin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Phase Phoenix Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Meteor Shard Exile Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pensive Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum BULWARK"
+    }
+  ]
 }

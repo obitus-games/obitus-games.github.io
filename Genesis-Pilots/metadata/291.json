@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #291",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 291,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Dusk Dune Cypher 5 "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Volcanic Dust Hermit Apparel "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nightfall Vector "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Midnight Hidden Village Tie-up "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum GLAIVE "
-        }
-    ]
+  "name": "Genesis Pilot #291",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/291.png",
+  "edition": "291",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dusk Dune Cypher 5"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Volcanic Dust Hermit Apparel"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nightfall Vector"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Midnight Hidden Village Tie-up"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum GLAIVE"
+    }
+  ]
 }

@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #164",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 164,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Volcanic Dust Aural Filter TX "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nightfall Ghost "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Phase Earthly Style "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Neptune's Trench Recon Jumper "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SWIFT-EDGE "
-        }
-    ]
+  "name": "Genesis Pilot #164",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/164.png",
+  "edition": "164",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Volcanic Dust Aural Filter TX"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nightfall Ghost"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Phase Earthly Style"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Neptune's Trench Recon Jumper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SWIFT-EDGE"
+    }
+  ]
 }

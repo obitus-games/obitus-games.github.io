@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #74",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 74,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Emerald Eruption BULWARK "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nebula Infernal "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Phase Edged Quills "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Sublunar Shadow Techno Vestments "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #74",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/74.png",
+  "edition": "74",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Emerald Eruption BULWARK"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nebula Infernal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Phase Edged Quills"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sublunar Shadow Techno Vestments"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium SPECTER"
+    }
+  ]
 }

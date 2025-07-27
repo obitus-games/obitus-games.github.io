@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #43",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 43,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Emerald Eruption BULWARK "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Cosmic Lumen "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Matrix Monolithic Crest "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Celestial Mist Duel Ensemble "
-        },
-        {
-            "trait_type": "Eyes ",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium BULWARK "
-        }
-    ]
+  "name": "Genesis Pilot #43",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/43.png",
+  "edition": "43",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Emerald Eruption BULWARK"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Cosmic Lumen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Matrix Monolithic Crest"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Celestial Mist Duel Ensemble"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium BULWARK"
+    }
+  ]
 }

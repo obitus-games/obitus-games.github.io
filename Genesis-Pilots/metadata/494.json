@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #494",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 494,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Terra NeurEx Circlet v.7 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Vulcan Standard "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Pewter Aero Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Martian Junior Garb "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Gaia SWIFT-EDGE "
-        }
-    ]
+  "name": "Genesis Pilot #494",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/494.png",
+  "edition": "494",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Terra NeurEx Circlet v.7"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Vulcan Standard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pewter Aero Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Martian Junior Garb"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gaia SWIFT-EDGE"
+    }
+  ]
 }

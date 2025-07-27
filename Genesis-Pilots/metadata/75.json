@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #75",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 75,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Divine Chroma GLAIVE "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nebula Infernal "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Bloom Shield Front "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "White Dwarf Riot Cloak "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium GLAIVE "
-        }
-    ]
+  "name": "Genesis Pilot #75",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/75.png",
+  "edition": "75",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Divine Chroma GLAIVE"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nebula Infernal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bloom Shield Front"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Dwarf Riot Cloak"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium GLAIVE"
+    }
+  ]
 }

@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #69",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 69,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Divine Chroma GLAIVE "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nebula Lumen "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Plasma Shield Front "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Celestial Mist Riot Cloak "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #69",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/69.png",
+  "edition": "69",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Divine Chroma GLAIVE"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nebula Lumen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Plasma Shield Front"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Celestial Mist Riot Cloak"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium SPECTER"
+    }
+  ]
 }

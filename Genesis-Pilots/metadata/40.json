@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #40",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 40,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Obsidian Nightfall SPECTER "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nebula Infernal "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Flux Monolithic Crest "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Rosey Nebula Duel Ensemble "
-        },
-        {
-            "trait_type": "Eyes ",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium SWIFT-EDGE "
-        }
-    ]
+  "name": "Genesis Pilot #40",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/40.png",
+  "edition": "40",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Obsidian Nightfall SPECTER"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nebula Infernal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flux Monolithic Crest"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Rosey Nebula Duel Ensemble"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium SWIFT-EDGE"
+    }
+  ]
 }

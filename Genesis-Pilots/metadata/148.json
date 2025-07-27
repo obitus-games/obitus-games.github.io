@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #148",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 148,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Stardust Way Aural Filter TX "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Circuit Ghost "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Foundry Phoenix Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Neptune's Trench Exile Outfit "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SWIFT-EDGE "
-        }
-    ]
+  "name": "Genesis Pilot #148",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/148.png",
+  "edition": "148",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stardust Way Aural Filter TX"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Circuit Ghost"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Foundry Phoenix Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Neptune's Trench Exile Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SWIFT-EDGE"
+    }
+  ]
 }

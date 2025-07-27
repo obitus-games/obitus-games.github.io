@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #184",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 184,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Dusk Dune Receptor RCP-9 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nightfall Vector "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Phase Earthly Style "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Volcanic Dust Recon Jumper "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Pensive Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum GLAIVE "
-        }
-    ]
+  "name": "Genesis Pilot #184",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/184.png",
+  "edition": "184",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dusk Dune Receptor RCP-9"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nightfall Vector"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Phase Earthly Style"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Volcanic Dust Recon Jumper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pensive Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum GLAIVE"
+    }
+  ]
 }

@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #372",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 372,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Dusk Dune Receptor RCP-9 "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Hydrocarbon Green Bold Robes "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Circuit Ghost "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Foundry Neon Nights Bedhead "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SPECTER "
-        }
-    ]
+  "name": "Genesis Pilot #372",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/372.png",
+  "edition": "372",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dusk Dune Receptor RCP-9"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hydrocarbon Green Bold Robes"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Circuit Ghost"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Foundry Neon Nights Bedhead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SPECTER"
+    }
+  ]
 }

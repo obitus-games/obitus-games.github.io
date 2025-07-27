@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #81",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 81,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Crimson Thunder ARC-WAVE "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nebula Infernal "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Bloom Shield Front "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Sublunar Shadow Orbital Flightsuit "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium SWIFT-EDGE "
-        }
-    ]
+  "name": "Genesis Pilot #81",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/81.png",
+  "edition": "81",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crimson Thunder ARC-WAVE"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nebula Infernal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bloom Shield Front"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sublunar Shadow Orbital Flightsuit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium SWIFT-EDGE"
+    }
+  ]
 }

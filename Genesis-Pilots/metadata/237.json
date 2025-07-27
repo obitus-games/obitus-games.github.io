@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #237",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 237,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Glacial Slate Aural Filter TX "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Radiant Vector "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Fusion Phoenix Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Glacial Slate Ambassador Blazer "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #237",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/237.png",
+  "edition": "237",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Glacial Slate Aural Filter TX"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Radiant Vector"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fusion Phoenix Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Glacial Slate Ambassador Blazer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum ARC-WAVE"
+    }
+  ]
 }

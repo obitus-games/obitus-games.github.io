@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #72",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 72,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Divine Chroma GLAIVE "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Orion Infernal "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Phase Edged Quills "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "White Dwarf Orbital Flightsuit "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium GLAIVE "
-        }
-    ]
+  "name": "Genesis Pilot #72",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/72.png",
+  "edition": "72",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Divine Chroma GLAIVE"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Orion Infernal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Phase Edged Quills"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Dwarf Orbital Flightsuit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium GLAIVE"
+    }
+  ]
 }

@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #71",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 71,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Electric Cherry Blossom BLITZRAY "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Orion Lumen "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Flux Shield Front "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Sublunar Shadow Riot Cloak "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium GLAIVE "
-        }
-    ]
+  "name": "Genesis Pilot #71",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/71.png",
+  "edition": "71",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Electric Cherry Blossom BLITZRAY"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Orion Lumen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flux Shield Front"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sublunar Shadow Riot Cloak"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium GLAIVE"
+    }
+  ]
 }

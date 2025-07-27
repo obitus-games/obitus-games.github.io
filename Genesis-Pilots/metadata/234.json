@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #234",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 234,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Dusk Dune Aural Filter TX "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Radiant Ronin "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Midnight Glitch Bob "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Glacial Slate Exile Outfit "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum GLAIVE "
-        }
-    ]
+  "name": "Genesis Pilot #234",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/234.png",
+  "edition": "234",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dusk Dune Aural Filter TX"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Radiant Ronin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Midnight Glitch Bob"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Glacial Slate Exile Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum GLAIVE"
+    }
+  ]
 }

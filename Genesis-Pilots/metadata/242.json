@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #242",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 242,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Stardust Way Cypher 5 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Circuit Vector "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Cryo Phoenix Cut "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Hydrocarbon Green Ambassador Blazer "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Radiant Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SWIFT-EDGE "
-        }
-    ]
+  "name": "Genesis Pilot #242",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/242.png",
+  "edition": "242",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stardust Way Cypher 5"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Circuit Vector"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cryo Phoenix Cut"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hydrocarbon Green Ambassador Blazer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radiant Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SWIFT-EDGE"
+    }
+  ]
 }

@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #62",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 62,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Crimson Thunder ARC-WAVE "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Orion Lumen "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Bloom Edged Quills "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "White Dwarf Techno Vestments "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #62",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/62.png",
+  "edition": "62",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crimson Thunder ARC-WAVE"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Orion Lumen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bloom Edged Quills"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Dwarf Techno Vestments"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium ARC-WAVE"
+    }
+  ]
 }

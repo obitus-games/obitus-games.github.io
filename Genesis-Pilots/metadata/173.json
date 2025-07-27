@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #173",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 173,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Stardust Way Receptor RCP-9 "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Radiant Vector "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Fusion Earthly Style "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Glacial Slate Recon Jumper "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #173",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/173.png",
+  "edition": "173",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stardust Way Receptor RCP-9"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Radiant Vector"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fusion Earthly Style"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Glacial Slate Recon Jumper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum ARC-WAVE"
+    }
+  ]
 }

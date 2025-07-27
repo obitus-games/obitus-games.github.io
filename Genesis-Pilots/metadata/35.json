@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #35",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 35,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Emerald Eruption BULWARK "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Cosmic Lumen "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Plasma Magma Uplift "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "White Dwarf Royal Attire "
-        },
-        {
-            "trait_type": "Eyes ",
-            "value": "Soft Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Amber Female "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium BULWARK "
-        }
-    ]
+  "name": "Genesis Pilot #35",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/35.png",
+  "edition": "35",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Emerald Eruption BULWARK"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Cosmic Lumen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Plasma Magma Uplift"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Dwarf Royal Attire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Soft Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium BULWARK"
+    }
+  ]
 }

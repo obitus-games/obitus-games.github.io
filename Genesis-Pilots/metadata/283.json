@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #283",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 283,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Dusk Dune Aural Filter TX "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Neptune's Trench Hermit Apparel "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nightfall Ghost "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Foundry Hidden Village Tie-up "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Umber Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum SWIFT-EDGE "
-        }
-    ]
+  "name": "Genesis Pilot #283",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/283.png",
+  "edition": "283",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dusk Dune Aural Filter TX"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Neptune's Trench Hermit Apparel"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nightfall Ghost"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Foundry Hidden Village Tie-up"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Umber Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum SWIFT-EDGE"
+    }
+  ]
 }

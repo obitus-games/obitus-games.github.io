@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #272",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 272,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Volcanic Dust Aural Filter TX "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Xenoflora Bold Robes "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nightfall Ronin "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Foundry Neon Nights Bedhead "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #272",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/272.png",
+  "edition": "272",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Volcanic Dust Aural Filter TX"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Xenoflora Bold Robes"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nightfall Ronin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Foundry Neon Nights Bedhead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum ARC-WAVE"
+    }
+  ]
 }

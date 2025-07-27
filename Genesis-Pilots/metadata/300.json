@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #300",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 300,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Glacial Slate Cypher 5 "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Meteor Shard Hermit Apparel "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Nightfall Vector "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Fusion Hidden Village Tie-up "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Calm Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Sepia Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Quantum BULWARK "
-        }
-    ]
+  "name": "Genesis Pilot #300",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/300.png",
+  "edition": "300",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Glacial Slate Cypher 5"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Meteor Shard Hermit Apparel"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Nightfall Vector"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fusion Hidden Village Tie-up"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Calm Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sepia Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Quantum BULWARK"
+    }
+  ]
 }

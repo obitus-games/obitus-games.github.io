@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #59",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 59,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Midnight Aura SWIFT-EDGE "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Orion Lumen "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Flux Edged Quills "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Rosey Nebula Techno Vestments "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Earnest Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Onyx Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium ARC-WAVE "
-        }
-    ]
+  "name": "Genesis Pilot #59",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/59.png",
+  "edition": "59",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Midnight Aura SWIFT-EDGE"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Orion Lumen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flux Edged Quills"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Rosey Nebula Techno Vestments"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Earnest Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Onyx Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium ARC-WAVE"
+    }
+  ]
 }

@@ -1,40 +1,40 @@
 {
-    "name": "Genesis Pilots #93",
-    "description": "",
-    "image": "To be replaced",
-    "edition": 93,
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Mythical "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Divine Chroma GLAIVE "
-        },
-        {
-            "trait_type": "M.I.N.D.",
-            "value": "Orion Infernal "
-        },
-        {
-            "trait_type": "Hair",
-            "value": "Bloom Spike Grid "
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Void Flare Techno Vestments "
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sharp Eyes "
-        },
-        {
-            "trait_type": "Body",
-            "value": "Quartz Male "
-        },
-        {
-            "trait_type": "Background",
-            "value": "Elysium GLAIVE "
-        }
-    ]
+  "name": "Genesis Pilot #93",
+  "description": "The First Pilots to climb the Libra Tower!",
+  "image": "https://obitus-games.github.io/Genesis-Pilots/images/93.png",
+  "edition": "93",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Divine Chroma GLAIVE"
+    },
+    {
+      "trait_type": "M.I.N.D.",
+      "value": "Orion Infernal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bloom Spike Grid"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Flare Techno Vestments"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sharp Eyes"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Quartz Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Elysium GLAIVE"
+    }
+  ]
 }
